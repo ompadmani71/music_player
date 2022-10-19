@@ -1,16 +1,9 @@
 # music_player
 
 A new Flutter project.
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191747748-27ed8b82-7c4e-43fe-b175-9a6596529329.png)
 
-## Getting Started
+# Sample Vidio
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/108392662/196746547-f08a8080-f7f1-4b63-85f7-5e8997fc67c4.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
